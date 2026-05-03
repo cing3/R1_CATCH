@@ -1,7 +1,7 @@
 engineer\user_lib.o: ..\MODULE\algorithm\user_lib.c
-engineer\user_lib.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdlib.h
+engineer\user_lib.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
 engineer\user_lib.o: ..\MODULE\algorithm\user_lib.h
-engineer\user_lib.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\user_lib.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\user_lib.o: ../Core/Inc/main.h
 engineer\user_lib.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\user_lib.o: ../Core/Inc/stm32f4xx_hal_conf.h
@@ -17,7 +17,7 @@ engineer\user_lib.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 engineer\user_lib.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 engineer\user_lib.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\user_lib.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-engineer\user_lib.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
+engineer\user_lib.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
 engineer\user_lib.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 engineer\user_lib.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 engineer\user_lib.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -53,7 +53,7 @@ engineer\user_lib.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
 engineer\user_lib.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h
 engineer\user_lib.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
 engineer\user_lib.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
-engineer\user_lib.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\string.h
-engineer\user_lib.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\math.h
-engineer\user_lib.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\float.h
-engineer\user_lib.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\limits.h
+engineer\user_lib.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
+engineer\user_lib.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
+engineer\user_lib.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\float.h
+engineer\user_lib.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\limits.h

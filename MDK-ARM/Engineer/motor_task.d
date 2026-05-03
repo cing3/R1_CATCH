@@ -2,7 +2,7 @@ engineer\motor_task.o: ..\MODULE\motor\motor_task.c
 engineer\motor_task.o: ..\MODULE\motor\motor_task.h
 engineer\motor_task.o: ../MODULE/motor/DJImotor/dji_motor.h
 engineer\motor_task.o: ../BSP/CAN/bsp_can.h
-engineer\motor_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\motor_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\motor_task.o: ../Core/Inc/can.h
 engineer\motor_task.o: ../Core/Inc/main.h
 engineer\motor_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
@@ -19,7 +19,7 @@ engineer\motor_task.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 engineer\motor_task.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 engineer\motor_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\motor_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-engineer\motor_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
+engineer\motor_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
 engineer\motor_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 engineer\motor_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 engineer\motor_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -41,13 +41,13 @@ engineer\motor_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h
 engineer\motor_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h
 engineer\motor_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
 engineer\motor_task.o: ../MODULE/algorithm/controller.h
-engineer\motor_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\string.h
-engineer\motor_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdlib.h
+engineer\motor_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
+engineer\motor_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
 engineer\motor_task.o: ../BSP/DWT/bsp_dwt.h
 engineer\motor_task.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
-engineer\motor_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\math.h
-engineer\motor_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\float.h
-engineer\motor_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\limits.h
+engineer\motor_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
+engineer\motor_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\float.h
+engineer\motor_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\limits.h
 engineer\motor_task.o: ../MODULE/motor/motor_def.h
 engineer\motor_task.o: ../MODULE/algorithm/ramp_contorller.h
 engineer\motor_task.o: ../MODULE/daemon/daemon.h

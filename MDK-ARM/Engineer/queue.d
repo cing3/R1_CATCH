@@ -1,9 +1,9 @@
 engineer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
-engineer\queue.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdlib.h
-engineer\queue.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\string.h
+engineer\queue.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
+engineer\queue.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
 engineer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-engineer\queue.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
-engineer\queue.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\queue.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
+engineer\queue.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\queue.o: ../Core/Inc/FreeRTOSConfig.h
 engineer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 engineer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

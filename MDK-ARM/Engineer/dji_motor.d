@@ -1,7 +1,7 @@
 engineer\dji_motor.o: ..\MODULE\motor\DJImotor\DJI_motor.c
 engineer\dji_motor.o: ..\MODULE\motor\DJImotor\dji_motor.h
 engineer\dji_motor.o: ../BSP/CAN/bsp_can.h
-engineer\dji_motor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\dji_motor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\dji_motor.o: ../Core/Inc/can.h
 engineer\dji_motor.o: ../Core/Inc/main.h
 engineer\dji_motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
@@ -18,7 +18,7 @@ engineer\dji_motor.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 engineer\dji_motor.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 engineer\dji_motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\dji_motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-engineer\dji_motor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
+engineer\dji_motor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
 engineer\dji_motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 engineer\dji_motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 engineer\dji_motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -40,13 +40,13 @@ engineer\dji_motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h
 engineer\dji_motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h
 engineer\dji_motor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
 engineer\dji_motor.o: ../MODULE/algorithm/controller.h
-engineer\dji_motor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\string.h
-engineer\dji_motor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdlib.h
+engineer\dji_motor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
+engineer\dji_motor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
 engineer\dji_motor.o: ../BSP/DWT/bsp_dwt.h
 engineer\dji_motor.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
-engineer\dji_motor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\math.h
-engineer\dji_motor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\float.h
-engineer\dji_motor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\limits.h
+engineer\dji_motor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
+engineer\dji_motor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\float.h
+engineer\dji_motor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\limits.h
 engineer\dji_motor.o: ../MODULE/motor/motor_def.h
 engineer\dji_motor.o: ../MODULE/algorithm/ramp_contorller.h
 engineer\dji_motor.o: ../MODULE/daemon/daemon.h

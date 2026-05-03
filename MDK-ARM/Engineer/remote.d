@@ -1,6 +1,6 @@
 engineer\remote.o: ..\MODULE\remote\remote.c
 engineer\remote.o: ..\MODULE\remote\remote.h
-engineer\remote.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\remote.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\remote.o: ../Core/Inc/main.h
 engineer\remote.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\remote.o: ../Core/Inc/stm32f4xx_hal_conf.h
@@ -16,7 +16,7 @@ engineer\remote.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 engineer\remote.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 engineer\remote.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\remote.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-engineer\remote.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
+engineer\remote.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
 engineer\remote.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 engineer\remote.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 engineer\remote.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -38,9 +38,9 @@ engineer\remote.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h
 engineer\remote.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h
 engineer\remote.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
 engineer\remote.o: ../Core/Inc/usart.h
-engineer\remote.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\string.h
+engineer\remote.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
 engineer\remote.o: ../BSP/USART/bsp_usart.h
-engineer\remote.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdlib.h
+engineer\remote.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
 engineer\remote.o: ../MODULE/daemon/daemon.h
 engineer\remote.o: ../APPLICATION/robot_def.h
 engineer\remote.o: ../MODULE/imu/ins_task.h
@@ -48,6 +48,6 @@ engineer\remote.o: ../MODULE/imu/BMI088driver.h
 engineer\remote.o: ../MODULE/algorithm/QuaternionEKF.h
 engineer\remote.o: ../MODULE/algorithm/kalman_filter.h
 engineer\remote.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
-engineer\remote.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\math.h
-engineer\remote.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\float.h
-engineer\remote.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\limits.h
+engineer\remote.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
+engineer\remote.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\float.h
+engineer\remote.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\limits.h

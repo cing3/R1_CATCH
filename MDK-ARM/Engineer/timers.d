@@ -1,8 +1,8 @@
 engineer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
-engineer\timers.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdlib.h
+engineer\timers.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
 engineer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-engineer\timers.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
-engineer\timers.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\timers.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
+engineer\timers.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\timers.o: ../Core/Inc/FreeRTOSConfig.h
 engineer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 engineer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

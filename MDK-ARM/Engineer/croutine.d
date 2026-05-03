@@ -1,7 +1,7 @@
 engineer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
 engineer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-engineer\croutine.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
-engineer\croutine.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\croutine.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
+engineer\croutine.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\croutine.o: ../Core/Inc/FreeRTOSConfig.h
 engineer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 engineer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

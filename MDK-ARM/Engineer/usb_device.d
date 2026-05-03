@@ -3,7 +3,7 @@ engineer\usb_device.o: ../USB_DEVICE/App/usb_device.h
 engineer\usb_device.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 engineer\usb_device.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
 engineer\usb_device.o: ../Drivers/CMSIS/Include/core_cm4.h
-engineer\usb_device.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\usb_device.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\usb_device.o: ../Drivers/CMSIS/Include/cmsis_version.h
 engineer\usb_device.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 engineer\usb_device.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -15,7 +15,7 @@ engineer\usb_device.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
 engineer\usb_device.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 engineer\usb_device.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 engineer\usb_device.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-engineer\usb_device.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
+engineer\usb_device.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
 engineer\usb_device.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 engineer\usb_device.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 engineer\usb_device.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -38,9 +38,9 @@ engineer\usb_device.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h
 engineer\usb_device.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
 engineer\usb_device.o: ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h
 engineer\usb_device.o: ../USB_DEVICE/Target/usbd_conf.h
-engineer\usb_device.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdio.h
-engineer\usb_device.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdlib.h
-engineer\usb_device.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\string.h
+engineer\usb_device.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdio.h
+engineer\usb_device.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
+engineer\usb_device.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
 engineer\usb_device.o: ../Core/Inc/main.h
 engineer\usb_device.o: ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h
 engineer\usb_device.o: ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h

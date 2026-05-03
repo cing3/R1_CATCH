@@ -1,6 +1,6 @@
 engineer\ins_task.o: ..\MODULE\imu\ins_task.c
 engineer\ins_task.o: ..\MODULE\imu\ins_task.h
-engineer\ins_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\ins_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\ins_task.o: ..\MODULE\imu\BMI088driver.h
 engineer\ins_task.o: ../Core/Inc/main.h
 engineer\ins_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
@@ -17,7 +17,7 @@ engineer\ins_task.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 engineer\ins_task.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 engineer\ins_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\ins_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-engineer\ins_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
+engineer\ins_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
 engineer\ins_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 engineer\ins_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 engineer\ins_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -41,11 +41,11 @@ engineer\ins_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
 engineer\ins_task.o: ../MODULE/algorithm/QuaternionEKF.h
 engineer\ins_task.o: ../MODULE/algorithm/kalman_filter.h
 engineer\ins_task.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
-engineer\ins_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\string.h
-engineer\ins_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\math.h
-engineer\ins_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\float.h
-engineer\ins_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\limits.h
-engineer\ins_task.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdlib.h
+engineer\ins_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
+engineer\ins_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
+engineer\ins_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\float.h
+engineer\ins_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\limits.h
+engineer\ins_task.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
 engineer\ins_task.o: ../MODULE/algorithm/controller.h
 engineer\ins_task.o: ../BSP/DWT/bsp_dwt.h
 engineer\ins_task.o: ../Core/Inc/spi.h

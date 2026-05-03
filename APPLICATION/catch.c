@@ -246,13 +246,28 @@ WritePosEx2(3, 1100, 500, 20, 1500);
 void catch_all(){
 
 static uint32_t catch_start_time = 0;
-static uint8_t is_timing = 0; // 标志位：是否正在计时
+static uint8_t is_timing = 0; 					// 标志位：是否正在计时
+static float current_angle_ref = 0.0f; // 记录当前的渐变目标值
+float target_angle = 9000.0f;          // 最终想要达到的目标角度
+float step = 50.0f;                    // 每次递增的步长（决定了转动速度，越小越慢）
 
 const uint8_t rocker_pressed = ((int16_t)rc_cmd->rc.rocker_r1 < -500);
     DJIMotorSetRef(DJM3508, 1000);
     if (DJM3508->measure.total_angle > 900) {
         HAL_GPIO_WritePin(GPIOE,GPIO_PIN_9,GPIO_PIN_SET);
-        DJIMotorSetRef(DJM2006, 9000);
+        if (current_angle_ref < target_angle) {
+    current_angle_ref += step;
+    if (current_angle_ref > target_angle) {
+        current_angle_ref = target_angle; // 防止超出
+    }
+} else if (current_angle_ref > target_angle) {
+    current_angle_ref -= step;
+    if (current_angle_ref < target_angle) {
+        current_angle_ref = target_angle;
+    }
+}
+
+DJIMotorSetRef(DJM2006, current_angle_ref);
     }
 if (rocker_pressed) {
 

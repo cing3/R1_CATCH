@@ -1,9 +1,9 @@
 engineer\shoot.o: ..\APPLICATION\shoot\shoot.c
 engineer\shoot.o: ..\APPLICATION\shoot\shoot.h
 engineer\shoot.o: ../APPLICATION/nac.h
-engineer\shoot.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\shoot.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\shoot.o: ../BSP/USART/bsp_usart.h
-engineer\shoot.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdlib.h
+engineer\shoot.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
 engineer\shoot.o: ../Core/Inc/usart.h
 engineer\shoot.o: ../Core/Inc/main.h
 engineer\shoot.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
@@ -20,7 +20,7 @@ engineer\shoot.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 engineer\shoot.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 engineer\shoot.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\shoot.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-engineer\shoot.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
+engineer\shoot.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
 engineer\shoot.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 engineer\shoot.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 engineer\shoot.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -45,12 +45,12 @@ engineer\shoot.o: ../MODULE/motor/DMmotor/dmmotor.h
 engineer\shoot.o: ../BSP/CAN/bsp_can.h
 engineer\shoot.o: ../Core/Inc/can.h
 engineer\shoot.o: ../MODULE/algorithm/controller.h
-engineer\shoot.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\string.h
+engineer\shoot.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
 engineer\shoot.o: ../BSP/DWT/bsp_dwt.h
 engineer\shoot.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
-engineer\shoot.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\math.h
-engineer\shoot.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\float.h
-engineer\shoot.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\limits.h
+engineer\shoot.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
+engineer\shoot.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\float.h
+engineer\shoot.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\limits.h
 engineer\shoot.o: ../MODULE/algorithm/ramp_contorller.h
 engineer\shoot.o: ../MODULE/motor/motor_def.h
 engineer\shoot.o: ../MODULE/daemon/daemon.h

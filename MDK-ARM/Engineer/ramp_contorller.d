@@ -1,13 +1,13 @@
 engineer\ramp_contorller.o: ..\MODULE\algorithm\ramp_contorller.c
 engineer\ramp_contorller.o: ..\MODULE\algorithm\ramp_contorller.h
-engineer\ramp_contorller.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\ramp_contorller.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\ramp_contorller.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
 engineer\ramp_contorller.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 engineer\ramp_contorller.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
-engineer\ramp_contorller.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\string.h
-engineer\ramp_contorller.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\math.h
-engineer\ramp_contorller.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\float.h
-engineer\ramp_contorller.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\limits.h
+engineer\ramp_contorller.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
+engineer\ramp_contorller.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
+engineer\ramp_contorller.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\float.h
+engineer\ramp_contorller.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\limits.h
 engineer\ramp_contorller.o: ../BSP/DWT/bsp_dwt.h
 engineer\ramp_contorller.o: ../Core/Inc/main.h
 engineer\ramp_contorller.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
@@ -22,7 +22,7 @@ engineer\ramp_contorller.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 engineer\ramp_contorller.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 engineer\ramp_contorller.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\ramp_contorller.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-engineer\ramp_contorller.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
+engineer\ramp_contorller.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
 engineer\ramp_contorller.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 engineer\ramp_contorller.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 engineer\ramp_contorller.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h

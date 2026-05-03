@@ -7,7 +7,7 @@ engineer\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 engineer\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 engineer\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
 engineer\main.o: ../Drivers/CMSIS/Include/core_cm4.h
-engineer\main.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
 engineer\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 engineer\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -15,7 +15,7 @@ engineer\main.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 engineer\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 engineer\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-engineer\main.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
+engineer\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
 engineer\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 engineer\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 engineer\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -58,9 +58,9 @@ engineer\main.o: ../Core/Inc/usart.h
 engineer\main.o: ../USB_DEVICE/App/usb_device.h
 engineer\main.o: ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h
 engineer\main.o: ../USB_DEVICE/Target/usbd_conf.h
-engineer\main.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdio.h
-engineer\main.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdlib.h
-engineer\main.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\string.h
+engineer\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdio.h
+engineer\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
+engineer\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
 engineer\main.o: ../Core/Inc/gpio.h
 engineer\main.o: ../APPLICATION/chassis/chassis.h
 engineer\main.o: ../APPLICATION/cmd/robot_cmd.h
@@ -70,9 +70,9 @@ engineer\main.o: ../MODULE/imu/BMI088driver.h
 engineer\main.o: ../MODULE/algorithm/QuaternionEKF.h
 engineer\main.o: ../MODULE/algorithm/kalman_filter.h
 engineer\main.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
-engineer\main.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\math.h
-engineer\main.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\float.h
-engineer\main.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\limits.h
+engineer\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
+engineer\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\float.h
+engineer\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\limits.h
 engineer\main.o: ../MODULE/remote/remote.h
 engineer\main.o: ../APPLICATION/nac.h
 engineer\main.o: ../BSP/USART/bsp_usart.h

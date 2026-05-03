@@ -1,7 +1,7 @@
 engineer\freertos.o: ../Core/Src/freertos.c
 engineer\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-engineer\freertos.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
-engineer\freertos.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
+engineer\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\freertos.o: ../Core/Inc/FreeRTOSConfig.h
 engineer\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 engineer\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
@@ -58,11 +58,11 @@ engineer\freertos.o: ../MODULE/imu/BMI088driver.h
 engineer\freertos.o: ../MODULE/algorithm/QuaternionEKF.h
 engineer\freertos.o: ../MODULE/algorithm/kalman_filter.h
 engineer\freertos.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
-engineer\freertos.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\string.h
-engineer\freertos.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\math.h
-engineer\freertos.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\float.h
-engineer\freertos.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\limits.h
-engineer\freertos.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdlib.h
+engineer\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
+engineer\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
+engineer\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\float.h
+engineer\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\limits.h
+engineer\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
 engineer\freertos.o: ../MODULE/remote/remote.h
 engineer\freertos.o: ../Core/Inc/usart.h
 engineer\freertos.o: ../APPLICATION/nac.h
@@ -83,7 +83,7 @@ engineer\freertos.o: ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/us
 engineer\freertos.o: ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h
 engineer\freertos.o: ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h
 engineer\freertos.o: ../USB_DEVICE/Target/usbd_conf.h
-engineer\freertos.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdio.h
+engineer\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdio.h
 engineer\freertos.o: ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h
 engineer\freertos.o: ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h
 engineer\freertos.o: ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h

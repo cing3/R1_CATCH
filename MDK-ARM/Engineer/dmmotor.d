@@ -1,6 +1,6 @@
 engineer\dmmotor.o: ..\MODULE\motor\DMmotor\dmmotor.c
 engineer\dmmotor.o: ..\MODULE\motor\DMmotor\dmmotor.h
-engineer\dmmotor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\dmmotor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\dmmotor.o: ../BSP/CAN/bsp_can.h
 engineer\dmmotor.o: ../Core/Inc/can.h
 engineer\dmmotor.o: ../Core/Inc/main.h
@@ -18,7 +18,7 @@ engineer\dmmotor.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 engineer\dmmotor.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 engineer\dmmotor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\dmmotor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-engineer\dmmotor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
+engineer\dmmotor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
 engineer\dmmotor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 engineer\dmmotor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 engineer\dmmotor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -40,13 +40,13 @@ engineer\dmmotor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h
 engineer\dmmotor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h
 engineer\dmmotor.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
 engineer\dmmotor.o: ../MODULE/algorithm/controller.h
-engineer\dmmotor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\string.h
-engineer\dmmotor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdlib.h
+engineer\dmmotor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
+engineer\dmmotor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
 engineer\dmmotor.o: ../BSP/DWT/bsp_dwt.h
 engineer\dmmotor.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
-engineer\dmmotor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\math.h
-engineer\dmmotor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\float.h
-engineer\dmmotor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\limits.h
+engineer\dmmotor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
+engineer\dmmotor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\float.h
+engineer\dmmotor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\limits.h
 engineer\dmmotor.o: ../MODULE/algorithm/ramp_contorller.h
 engineer\dmmotor.o: ../MODULE/motor/motor_def.h
 engineer\dmmotor.o: ../MODULE/daemon/daemon.h
@@ -67,4 +67,4 @@ engineer\dmmotor.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
 engineer\dmmotor.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h
 engineer\dmmotor.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
 engineer\dmmotor.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
-engineer\dmmotor.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdio.h
+engineer\dmmotor.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdio.h

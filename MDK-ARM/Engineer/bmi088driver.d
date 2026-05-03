@@ -1,6 +1,6 @@
 engineer\bmi088driver.o: ..\MODULE\imu\BMI088driver.c
 engineer\bmi088driver.o: ..\MODULE\imu\BMI088driver.h
-engineer\bmi088driver.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
+engineer\bmi088driver.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
 engineer\bmi088driver.o: ../Core/Inc/main.h
 engineer\bmi088driver.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\bmi088driver.o: ../Core/Inc/stm32f4xx_hal_conf.h
@@ -16,7 +16,7 @@ engineer\bmi088driver.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 engineer\bmi088driver.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 engineer\bmi088driver.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\bmi088driver.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-engineer\bmi088driver.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
+engineer\bmi088driver.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
 engineer\bmi088driver.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 engineer\bmi088driver.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 engineer\bmi088driver.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -40,4 +40,4 @@ engineer\bmi088driver.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_e
 engineer\bmi088driver.o: ..\MODULE\imu\BMI088reg.h
 engineer\bmi088driver.o: ..\MODULE\imu\BMI088Middleware.h
 engineer\bmi088driver.o: ../BSP/DWT/bsp_dwt.h
-engineer\bmi088driver.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\math.h
+engineer\bmi088driver.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h

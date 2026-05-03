@@ -1,7 +1,7 @@
 engineer\relay.o: ..\MODULE\relay\relay.c
 engineer\relay.o: ..\MODULE\relay\relay.h
-engineer\relay.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdint.h
-engineer\relay.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stdlib.h
+engineer\relay.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+engineer\relay.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
 engineer\relay.o: ../Core/Inc/gpio.h
 engineer\relay.o: ../Core/Inc/main.h
 engineer\relay.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
@@ -18,7 +18,7 @@ engineer\relay.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 engineer\relay.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 engineer\relay.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 engineer\relay.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-engineer\relay.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\stddef.h
+engineer\relay.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
 engineer\relay.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 engineer\relay.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 engineer\relay.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -39,4 +39,4 @@ engineer\relay.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
 engineer\relay.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h
 engineer\relay.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h
 engineer\relay.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
-engineer\relay.o: D:\ducument\keil\ARM\armcomplier5\Bin\..\include\string.h
+engineer\relay.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
